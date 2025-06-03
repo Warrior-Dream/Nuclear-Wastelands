@@ -7,8 +7,8 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-defaultWindowTitle: Space Station 14
-windowIconSet: /Textures/Logo/icon
-splashLogo: /Textures/Logo/logo.png
+defaultWindowTitle: Космическая Станция 14
+windowIconSet: /Textures/_DW/Logo/icon # DW
+splashLogo: /Textures/_DW/Logo/logo.png # DW
 
 # PJB PLEASE

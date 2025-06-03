@@ -29,7 +29,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
                         Margin="0 5 0 0" />
                 <Button Name="PatronPerks" Access="Public" Text="{Loc 'rmc-ui-patron-perks'}"
                         Margin="0 5 0 0" Visible="False" />
-<!-- B7R - Remove GS-Coin shop button
+<!-- DW - Remove GS-Coin shop button
                 <cc:CommandButton Name="Currency"
                     Command="balanceui"
                     Text="{Loc 'gs-balanceui-shop-label'}"
