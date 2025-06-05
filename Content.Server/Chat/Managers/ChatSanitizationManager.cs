@@ -62,6 +62,7 @@ public sealed class ChatSanitizationManager : IChatSanitizationManager
         { "((", "chatsan-frowns-deeply" },
         { "(", "chatsan-frowns" },
         // Reserve-Localization-End
+        { "лол", "chatsan-laughs" }, // B7R-Autoreplacement
         { ":)", "chatsan-smiles" },
         { ":]", "chatsan-smiles" },
         { "=)", "chatsan-smiles" },
